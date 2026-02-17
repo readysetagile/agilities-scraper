@@ -67,25 +67,21 @@ In Chrome:
     -   Select **only one agility**
     -   In DevTools, locate the request named:
 
-```{=html}
-<!-- -->
 ```
     categorical-filter-by-index
-
+```
 3.  Click the request.
 4.  Copy the full **response payload**.
 5.  Paste the response into the corresponding file inside:
 
-```{=html}
-<!-- -->
 ```
     /json/<agility_name>.txt
-
+```
 Example:
-
+```
     json/developing_others.txt
     json/driving_execution.txt
-
+```
 Repeat for all 10 agilities.
 
 ------------------------------------------------------------------------
@@ -105,18 +101,16 @@ The script will:
 -   Match them to O\*NET occupation naming
 -   Generate:
 
-```{=html}
-<!-- -->
 ```
-    results/results.json
-
+    results.json
+```
 ------------------------------------------------------------------------
 
 ## 📦 Output Format
 
 The final dataset will look like:
 
-``` json
+```
 [
   {
     "agility": "Developing Others",
