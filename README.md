@@ -33,7 +33,9 @@ This repository:
     ├── json/                  # Raw Tableau response payloads (one per agility)
     ├── results.json               # Final compiled dataset
     ├── parse_tableau_agility.py
-    └── README.md
+    ├── README.md
+    └── it_agilities_with_subcategories.json  # IT-specific positions with focus area generated with Gemini
+
 
 ------------------------------------------------------------------------
 

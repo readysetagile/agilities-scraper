@@ -1,0 +1,174 @@
+{
+    "Innovating": {
+        "focus_area": "Creation & Design",
+        "occupations": [
+            "Software Engineer",
+            "Full Stack Developer",
+            "Frontend Engineer",
+            "Backend Engineer",
+            "Mobile Application Developer",
+            "UI Designer",
+            "UX Designer",
+            "Product Designer",
+            "Video Game Designer",
+            "AI/ML Research Engineer",
+            "Computer Graphics Programmer",
+            "Creative Technologist",
+            "R&D Engineer",
+            "AR/VR Developer",
+            "Blockchain Developer",
+            "Algorithm Engineer"
+        ]
+    },
+    "Working with Information": {
+        "focus_area": "Analysis & Data",
+        "occupations": [
+            "Data Scientist",
+            "Data Analyst",
+            "Data Engineer",
+            "Database Administrator (DBA)",
+            "Business Intelligence (BI) Developer",
+            "Information Security Analyst",
+            "Systems Analyst",
+            "Technical Writer",
+            "Data Architect",
+            "Quantitative Researcher",
+            "Cybersecurity Researcher",
+            "Knowledge Manager",
+            "Market Research Analyst (Tech)",
+            "Metadata Specialist"
+        ]
+    },
+    "Managing": {
+        "focus_area": "Leadership & Strategy",
+        "occupations": [
+            "Chief Technology Officer (CTO)",
+            "VP of Engineering",
+            "Engineering Manager",
+            "Product Manager",
+            "IT Project Manager",
+            "Program Manager",
+            "IT Director",
+            "Delivery Manager",
+            "Release Manager",
+            "Product Owner",
+            "IT Operations Manager",
+            "Resource Manager",
+            "Scrum Product Owner"
+        ]
+    },
+    "Developing Others": {
+        "focus_area": "Mentorship & Education",
+        "occupations": [
+            "Technical Trainer",
+            "Instructional Designer (Software)",
+            "Engineering Lead",
+            "Technical Mentor",
+            "Developer Relations Specialist",
+            "Learning and Development Specialist (IT)",
+            "Onboarding Specialist",
+            "Scrum Master",
+            "Agile Coach",
+            "Staff Engineer (Mentorship focus)",
+            "Documentation Lead"
+        ]
+    },
+    "Selling and Communicating": {
+        "focus_area": "Growth & Advocacy",
+        "occupations": [
+            "Sales Engineer",
+            "Solutions Architect",
+            "Product Marketing Manager",
+            "Technical Copywriter",
+            "Content Strategist",
+            "Business Development Manager (Software)",
+            "Technical Account Manager",
+            "Developer Advocate",
+            "Technical Evangelist",
+            "Public Relations Specialist (Tech)",
+            "Partner Enablement Manager",
+            "Customer Success Executive",
+            "Digital Marketing Specialist",
+            "Growth Hacker"
+        ]
+    },
+    "Serving and Caring": {
+        "focus_area": "Support & Experience",
+        "occupations": [
+            "Customer Success Manager",
+            "Technical Support Engineer",
+            "IT Help Desk Specialist",
+            "Customer Support Lead",
+            "User Experience (UX) Researcher",
+            "Implementation Consultant",
+            "Community Manager",
+            "User Advocate",
+            "Customer Experience (CX) Designer",
+            "Patient Technology Coordinator"
+        ]
+    },
+    "Inspecting": {
+        "focus_area": "Quality & Security",
+        "occupations": [
+            "QA Automation Engineer",
+            "Software Quality Assurance Analyst",
+            "Manual QA Tester",
+            "Penetration Tester",
+            "Cybersecurity Auditor",
+            "Compliance Manager (Tech)",
+            "Data Quality Auditor",
+            "Code Reviewer",
+            "Performance Test Engineer",
+            "User Acceptance Testing (UAT) Specialist",
+            "IT Auditor"
+        ]
+    },
+    "Organizing": {
+        "focus_area": "Infrastructure & Systems",
+        "occupations": [
+            "DevOps Engineer",
+            "Site Reliability Engineer (SRE)",
+            "Cloud Infrastructure Architect",
+            "Build and Release Engineer",
+            "IT Operations Specialist",
+            "Database Architect",
+            "Digital Asset Manager",
+            "Configuration Manager",
+            "Platform Engineer",
+            "Systems Administrator",
+            "Cloud Administrator"
+        ]
+    },
+    "Judging and Estimating": {
+        "focus_area": "Decision Making & Analysis",
+        "occupations": [
+            "Software Architect",
+            "Systems Architect",
+            "Business Systems Analyst",
+            "QA Manager",
+            "Security Architect",
+            "Cost Estimator (Software Development)",
+            "Technical Debt Analyst",
+            "SEO Strategist",
+            "Risk Management Specialist (IT)",
+            "Technical Consultant",
+            "Agile Estimator"
+        ]
+    },
+    "Operating Objects": {
+        "focus_area": "Hardware & Networking",
+        "occupations": [
+            "Data Center Engineer",
+            "Hardware Design Engineer",
+            "Network Engineer",
+            "Systems Engineer",
+            "Embedded Systems Developer",
+            "IoT (Internet of Things) Engineer",
+            "Robotics Engineer",
+            "Hardware Support Technician",
+            "Field Service Engineer (Telecom)",
+            "AV (Audiovisual) Systems Technician",
+            "Network Hardware Installer"
+        ]
+    }
+}
